@@ -1,8 +1,14 @@
-# React + Vite
+Nike Web Store
+This is a web application for a Nike store built using Next.js, Tailwind CSS, and React. It provides a modern, responsive interface for users to browse and purchase Nike products.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Browse Nike products
+View detailed product information
+Add products to the shopping cart
+Responsive design for mobile and desktop
 
-Currently, two official plugins are available:
+Technologies Used
+Next.js: A React framework for server-side rendering and static site generation.
+React: A JavaScript library for building user interfaces.
+Tailwind CSS: A utility-first CSS framework for rapid UI development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
